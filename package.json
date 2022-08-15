@@ -1,5 +1,5 @@
 {
-  "name": "@cityofboston/config-babel",
+  "name": "config-babel",
   "version": "0.0.0",
   "description": "Presets for our babel config",
   "license": "CC0-1.0",
